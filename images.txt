@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 opencvcourses/opencv-docker:latest
-restreamio/gstreamer
+restreamio/gstreamer:2025-10-31T13-31-10Z-prod-dbg
